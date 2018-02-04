@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "204277013095",
+    "firebase_url": "https://android-message-43d16.firebaseio.com",
+    "project_id": "android-message-43d16",
+    "storage_bucket": "android-message-43d16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204277013095:android:d428fcdb7be0b0a8",
+        "android_client_info": {
+          "package_name": "jp.yasuhiro.katayama.kotlinfirebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204277013095-rbpfk7vp1kh6dooujmq8tacqh46m9fpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwC_UHqnsz86If8WlkEZVbRuxwFk2_x_k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
